@@ -1,0 +1,4 @@
+jquery-succinctly
+=================
+
+jQuery Book
